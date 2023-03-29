@@ -6,7 +6,7 @@ const me = {
    codeLangs: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Flutter"],
    technologies: {
       frontEnd: {
-        js: ["React", "Angular", "Vue"],
+        js: ["React.js", "Angular", "Vue.js", "Nextjs", "Nuxtjs"],
         css: ["Styled-Components", "SASS", "Tailwind", "Bootstrap", "Material", "Ant Design"]
       },
       backEnd: {
