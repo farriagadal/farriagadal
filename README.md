@@ -7,12 +7,13 @@ const me = {
    technologies: {
       frontEnd: {
         js: ["React.js", "Angular", "Vue.js", "Nextjs", "Nuxtjs"],
-        css: ["Styled-Components", "SASS", "Tailwind", "Bootstrap", "Material", "Ant Design"]
+        css: ["Styled-Components", "SASS", "Tailwind", "Bootstrap", "Material", "Ant Design"],
+        testing: ["Jest", "Enzyme", "Cypress"]
       },
       backEnd: {
         js: ["Node", "Express"],
         python: ["Django"],
-        misc: ["Bash", "Selenium", "Cypress"]
+        misc: ["Selenium"]
       },
       "CI/CD": ["Docker", "Kubernetes", "Github Actions", "Jenkins"],
       databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLServer"],
